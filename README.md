@@ -1,7 +1,7 @@
 # customer_churn_SHAP_analysis_with_explainer_dashboard
 
 This is a personal project to use explainer-dashboard package.  <br>
-Note that I got the same key insight from the EDA using ydata-profiling package. <br>
+Note that I got the same key insight from the EDA using a python package called [ydata-profiling](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python)<br>
 
 **Key Insight from this EDA:  Customer "Complain" is the highest contributor to "Exited" based on SHAP values.**
 [See pdf file for SHAP values](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/Profiling_Report_Customer_Churn.pdf)<br>
