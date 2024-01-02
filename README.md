@@ -10,4 +10,4 @@ Note that I got the same key insight from the EDA using ydata-profiling package.
 
 **Data source:**  Data are from customer churn data shared by Mo Chen in YouTube. <br>
 
-**Code:** Check out details of the code used in Jupyter Notebook [here](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/eda_customer_churn_ydata_profiling.ipynb)br>
+**Code:** Check out details of the code used in Jupyter Notebook [here](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/eda_customer_churn_ydata_profiling.ipynb)
